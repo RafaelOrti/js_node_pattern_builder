@@ -61,10 +61,6 @@ To run the project, use the following command:
 npm start
 ```
 
-## Examples
-
-The project includes several examples to demonstrate the usage of the Builder Pattern. You can find them in the `examples/` directory.
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
