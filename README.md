@@ -57,9 +57,9 @@ To install the project and its dependencies, follow these steps:
 ## Usage
 
 To run the project, use the following command:
-'''Shell
+```
 npm start
-'''
+```
 
 ## Examples
 
