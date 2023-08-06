@@ -1,0 +1,21 @@
+# Archivos generados automáticamente
+node_modules/
+dist/
+build/
+
+# Archivos sensibles o configuraciones locales
+.env
+
+# Archivos de registro
+*.log
+
+# Archivos de contraseñas u otros datos confidenciales
+secrets.txt
+
+# Carpetas específicas
+data/
+
+# Archivos de compilación
+*.exe
+*.o
+*.dll
